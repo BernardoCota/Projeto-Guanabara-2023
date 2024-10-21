@@ -1,0 +1,52 @@
+	
+	Mouse 1 = Razer Viper mini
+		  Preço: R$ 499,00
+		  Informações:
+		  Especificaçoes técnicas:
+	Mouse 2 = Razer Deatheder
+		  Preço: R$ 121,40
+		  Informações:
+		  Especificaçoes técnicas:
+	Mouse 3 = G Pro wireless
+		  Preço: R$ 840,00
+		  Informações:
+		  Especificaçoes técnicas:
+
+	Placa mae 1 = Asus Prime B450M
+		      Preço: R$ 550,00
+			  Informações:
+		  	  Especificaçoes técnicas:
+	Placa mae 2 = Asus TUF Gaming H310M Plus
+		      Preço: R$ 1000,00
+			  Informações:
+		      Especificaçoes técnicas:
+	Placa mae 3 = B550M Aorus Elite
+		      Preço: R$ 1000,00
+			  Informações:
+			  Especificaçoes técnicas:
+
+	Placa de Vídeo 1 = RTX 2060
+			   Preço: R$ 1.799
+			   Informações:
+		  	   Especificaçoes técnicas:
+	Placa de Vídeo 2 = RTX 3090
+			   Preço: R$16.294,34
+			   Informações:
+		 	   Especificaçoes técnicas:
+	Placa de Vídeo 3 = NVIDIA GeForce GTX 1650
+			   Preço: R$ 1500,00
+			   Informações:
+		       Especificaçoes técnicas:
+
+	SSD 1 = SSD 480GB Kingston SA400S37
+	        Preço: R$ 200,00
+			Informações:
+		  	Especificaçoes técnicas:
+	SSD 2 = SSD 512 GB XPG S41 TUF
+	        Preço: R$ 319,99
+			Informações:
+		  	Especificaçoes técnicas:
+	SSD 3 =	SSD 2 TB Kingston KC3000
+			Preço: R$1.139,99
+			Informações:
+		  	Especificaçoes técnicas:

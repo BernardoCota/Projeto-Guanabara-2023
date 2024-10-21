@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monte seu PC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Monte seu PC</h1>
+        <form action="" method="get" onsubmit="event.preventDefault(); comprar()">
+            <table>
+                <tr>
+                    <td><img src="imagens/mouse-gamer.png" alt="mouse"></td>
+                    <td>Mouse Gamer</td>
+                    <td>R$300,00</td>
+                    <td><input type="number" name="qtd01" id="qtd01" value="0" min="0" max="10"></td>
+                </tr>
+                <tr>
+                    <td><img src="imagens/teclado-mecanico.png" alt="mouse"></td>
+                    <td>teclado Gamer</td>
+                    <td>R$1.000,00</td>
+                    <td><input type="number" name="qtd02" id="qtd02" value="0" min="0" max="10"></td>
+                </tr>
+                <tr>
+                    <td><img src="imagens/placa-video.png" alt="mouse"></td>
+                    <td>Placa de Vídeo</td>
+                    <td>R$10.000,00</td>
+                    <td><input type="number" name="qtd03" id="qtd03" value="0" min="0" max="10"></td>
+                </tr>
+
+            </table>
+            <input type="submit" value="Comprar">
+        </form>
+    </main>
+
+    <aside id="resultado">
+        <h2>Orçamento final</h2>
+        <ul id="lista">
+
+        </ul>
+        <hr>    
+        <p id="res">
+
+        </p>
+    </aside>
+
+    <script src="script.js"></script>
+</body>
+</html>
